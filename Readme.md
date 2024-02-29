@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов»
 
 * Студент: [Виктория Кашина](https://up.htmlacademy.ru/react/15/user/186965).
-* Наставник: `Неизвестно`.
+* Наставник: [Yulia Volkova](https://htmlacademy.ru/profile/julie_volkova).
 
 ---
 
